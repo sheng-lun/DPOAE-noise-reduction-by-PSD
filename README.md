@@ -13,13 +13,13 @@ put folder "DPOAE_Data" in C:\   ,then open the code (DPOAE_c_noise reduction_PS
 ### - quiet 34dBA
 PSD noise reduction (green line) as close as possible to the baseline(black line, record DPOAE in quiet), the closer the better.
 
-	[My image](https://github.com/sheng-lun/DPOAE-noise-reduction-by-PSD/raw/main/Results%20of%20PSD%20reduction%20method/PSD_quiet%2034dBA/Comparison_RA_DPOAE_PSD_34dBA%20quiet.png)
-	|<img  src="./Results of PSD reduction method/PSD_quiet 34dBA/Comparison_RA_DPOAE_PSD_34dBA quiet.png">|
+![My image](https://github.com/sheng-lun/DPOAE-noise-reduction-by-PSD/raw/main/Results%20of%20PSD%20reduction%20method/PSD_quiet%2034dBA/Comparison_RA_DPOAE_PSD_34dBA%20quiet.png)
+
 
 
 ### - 70 dBA white noise
 red line, record DPOAE in noisy
-
+	|<img  src="./Results of PSD reduction method/PSD_quiet 34dBA/Comparison_RA_DPOAE_PSD_34dBA quiet.png">|
 	|<img  src="./Results of PSD reduction method/PSD_70 dBA white noise/Comparison_RA_DPOAE_PSD_70dBA white noise.png">|
 	
 
