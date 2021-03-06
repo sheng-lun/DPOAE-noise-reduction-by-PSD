@@ -1,9 +1,9 @@
 <h1>This is an example code of Distortion-product otoacoustic emissions(DPOAE) noise reduction by Power Spectral Density(PSD).<br>
 </h1> 
 
-<h2>#Written by Sheng-Lun, Kao</h2> 
+<h2>#Written by Sheng-Lun Kao</h2> 
 
-<h3>How to run?</h3> 
+<h3>How to run the code?</h3> 
 <p>
 put folder "DPOAE_Data" in C:\   ,then open the code (DPOAE_c_noise reduction_PSD.ipynb) by Jupyter Notebook, run it.
 </p>
