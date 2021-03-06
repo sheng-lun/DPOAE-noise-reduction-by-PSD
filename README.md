@@ -8,7 +8,7 @@
 put folder "DPOAE_Data" in C:\   ,then open the code (DPOAE_c_noise reduction_PSD.ipynb) by Jupyter Notebook, run it.
 </p>
 
-- ![#f03c15](1234) `#f03c15`
+<p style='color:red'>This is some red text.</p>
 
 ### [PSD noise reduction]
 ### - recorded in quiet 34dBA
