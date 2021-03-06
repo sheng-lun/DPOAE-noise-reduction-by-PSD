@@ -20,3 +20,6 @@ record DPOAE in noisy (red line)
 ### - recorded in 75 dBA white noise
 record DPOAE in noisy (red line)
 ![image](https://github.com/sheng-lun/DPOAE-noise-reduction-by-PSD/blob/main/Results%20of%20PSD%20reduction%20method/PSD_75%20dBA%20white%20noise/Comparison_RA_DPOAE_PSD_75dBA%20white%20noise.png)
+
+### [Comment]
+Obviously, PSD is not the best noise reduction method.
