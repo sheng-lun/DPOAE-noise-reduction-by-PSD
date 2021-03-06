@@ -6,7 +6,9 @@
 put folder "DPOAE_Data" in C:\   ,then open the code (DPOAE_c_noise reduction_PSD.ipynb) by Jupyter Notebook, run it.
 </p>
 
-<h3>Written by Sheng Lun Kao</h3> 
+<h3>#Written by Sheng Lun Kao</h3> 
+
+
 
 ### PSD noise reduction
 ### quiet 34dBA
