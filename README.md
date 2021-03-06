@@ -9,7 +9,10 @@ put folder "DPOAE_Data" in C:\   ,then open the code (DPOAE_c_noise reduction_PS
 </p>
 
 ### [PSD noise reduction]
-### - recorded in quiet 34dBA ```diff - text in red123
+### - recorded in quiet 34dBA
+```diff
+- text in red123
+```
 We hope PSD noise reduction (green line) as close as possible to the baseline(black line, record DPOAE in quiet), the closer the better.
 ![image](https://github.com/sheng-lun/DPOAE-noise-reduction-by-PSD/blob/main/Results%20of%20PSD%20reduction%20method/PSD_quiet%2034dBA/Comparison_RA_DPOAE_PSD_34dBA%20quiet.png)
 
