@@ -5,7 +5,7 @@
 
 <h3>How to run the code?</h3> 
 <p>
-put folder "DPOAE_Data" in C:\   ,then open the code (DPOAE_c_noise reduction_PSD.ipynb) by Jupyter Notebook, run it.
+put folder "DPOAE_Data" and code(DPOAE_c_noise reduction_PSD.ipynb) in path C:\   ,then open the code by Jupyter Notebook, run it.
 </p>
 
 ### [PSD noise reduction]
@@ -22,4 +22,4 @@ record DPOAE in noisy (red line)
 ![image](https://github.com/sheng-lun/DPOAE-noise-reduction-by-PSD/blob/main/Results%20of%20PSD%20reduction%20method/PSD_75%20dBA%20white%20noise/Comparison_RA_DPOAE_PSD_75dBA%20white%20noise.png)
 
 ### [Comment]
-Obviously, PSD is not the best noise reduction method.
+Obviously, PSD is not a good noise reduction method.
