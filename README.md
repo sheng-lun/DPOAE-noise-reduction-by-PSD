@@ -1,4 +1,4 @@
-<h1>This is an example code of Distortion-product otoacoustic emissions(DPOAE) noise reduction by Power Spectral Density(PSD).<br>
+<h1>This is an example code of Distortion-product otoacoustic emissions(DPOAE) noise reduction by Wiener filter.<br>
 </h1> 
 
 <h2>#Written by Sheng-Lun Kao</h2> 
@@ -22,4 +22,4 @@ record DPOAE in noisy (red line)
 ![image](https://github.com/sheng-lun/DPOAE-noise-reduction-by-PSD/blob/main/Results%20of%20PSD%20reduction%20method/PSD_75%20dBA%20white%20noise/Comparison_RA_DPOAE_PSD_75dBA%20white%20noise.png)
 
 ### [Comment]
-Obviously, PSD is not a good noise reduction method.
+Obviously, Wiener filter is not a good noise reduction method.
