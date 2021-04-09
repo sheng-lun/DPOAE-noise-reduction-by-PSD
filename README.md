@@ -5,12 +5,12 @@
 
 <h3>How to run the code?</h3> 
 <p>
-put folder "DPOAE_Data" and code(DPOAE_c_noise reduction_PSD.ipynb) in path C:\   ,then open the code by Jupyter Notebook, run it.
+Put folder "DPOAE_Data" and code(DPOAE_c_noise reduction_PSD.ipynb) in path C:\   ,then open the code by Jupyter Notebook, run it.
 </p>
 
 ### [PSD noise reduction]
 ### - recorded in quiet 34dBA
-We hope PSD noise reduction (green line) as close as possible to the baseline(black line, record DPOAE in quiet), the closer the better.
+We hope Wiener filter noise reduction (PSD, green line) as close as possible to the baseline(black line, record DPOAE in quiet), the closer the better.
 ![image](https://github.com/sheng-lun/DPOAE-noise-reduction-by-PSD/blob/main/Results%20of%20PSD%20reduction%20method/PSD_quiet%2034dBA/Comparison_RA_DPOAE_PSD_34dBA%20quiet.png)
 
 ### - recorded in 70 dBA white noise
